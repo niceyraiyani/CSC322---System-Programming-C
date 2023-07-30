@@ -1,0 +1,9 @@
+IAt the beginning - 
+OAdding a line to each line.
+/These lines need to be deleted./d
+OAdding a line again to left lines.
+/Incomplete lines/A - Now complete.
+s/SSS SSS SSS/RRR RRR RRR/
+2,2/d
+6,9/s/sss sss sss/rrr rrr rrr/
+5,5/IThis is line number 5 - 
